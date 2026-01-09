@@ -12,5 +12,7 @@ This is a challenge I'm giving myself, create a procedural bonsai tree program w
 It'll be done the old fashioned way. <br/>
 1. No Ai.
 2. No Ide.
+3. I can't reuse older code (from other projects).
+
 <br/>
 Internet is allowed though as I still feel like there's a bit of a challenge in reading through documentations. <br/>
