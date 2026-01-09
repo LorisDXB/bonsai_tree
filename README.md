@@ -13,8 +13,4 @@ It'll be done the old fashioned way. <br/>
 1. No Ai.
 2. No Ide.
 <br/>
-Internet is allowed though as I still feel like there's a bit of a challenge in reading through documentations, to me atleast. <br/>
-
-## Usage
-
-None, the project isn't done <br/>
+Internet is allowed though as I still feel like there's a bit of a challenge in reading through documentations. <br/>
