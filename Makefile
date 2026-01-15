@@ -1,12 +1,13 @@
 CC	=	gcc
 
-CFLAGS = -lcurses
+CFLAGS = -lcurses -g -g3 -O0
 
 TARGET	=	bonsai
 
 SRC	:=	src/main.c	\
 		src/visual.c	\
 		src/utils.c	\
+		src/lindenmayer.c	\
 
 OBJ := $(SRC:.c=.o)
 
